@@ -1,0 +1,480 @@
+canonical_identifier: bkk:krp/KR6p0099/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0099/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重訂西方公據
+  identifiers:
+    krp: KR6p0099
+    cbeta: X62n1180
+    cbeta_old_id: X62n1180
+    authorityid: CA0003509
+    json_key: X1180
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1180.xml
+    old_id: X62n1180
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0099_000-X.yaml, hash: 'sha256:29b8cb8659bf66908100e530696eea9051d4714e1b308a8c6129259bf18ab948'}
+  - {seq: 1, filename: KR6p0099_001-X.yaml, hash: 'sha256:0989790c0264a5cf332cd6b1660c3c948f7dbfcfb461d66a4db4d227187dbd28'}
+  - {seq: 2, filename: KR6p0099_002-X.yaml, hash: 'sha256:1c1e85ddba0b87dff45b793e1d65aa9ee09244a9cd68910c7025659752be82af'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0099_000-X.markers.yaml, hash: 'sha256:0853e34d5f115658834d5d90c07d1d6b5bdb815ad1343f3049c093c9a0a39211'}
+  - {seq: 1, role: markers, filename: assets/KR6p0099_001-X.markers.yaml, hash: 'sha256:19a24db6dda9a859da57c51f2bd77ce1b1cf762778328166ec948aeb114b702d'}
+  - {seq: 2, role: markers, filename: assets/KR6p0099_002-X.markers.yaml, hash: 'sha256:56e9faaddf535f3f521a3c5761d1bc7f54245358f12c229f83072f6f7cc2167f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0099_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1180-A 重訂西方公據敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0099_X_000-mulu-2
+    span:
+    - front
+    - 457
+    - 457
+  label: 重訂西方公據發凡
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0099_X_000-mulu-3
+    span:
+    - front
+    - 824
+    - 824
+  label: 重訂西方公據目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3461
+  label: 重訂西方公據卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 一起教大綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-2
+    span:
+    - body
+    - 682
+    - 682
+  label: 二淨業正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-3
+    span:
+    - body
+    - 1238
+    - 1238
+  label: 三淨課儀式
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-4
+    span:
+    - body
+    - 1989
+    - 1989
+  label: 四西方境觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-5
+    span:
+    - body
+    - 1994
+    - 1994
+  label: 解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-6
+    span:
+    - body
+    - 2495
+    - 2495
+  label: 圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-7
+    span:
+    - body
+    - 2495
+    - 2495
+  label: 接引往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-8
+    span:
+    - body
+    - 2499
+    - 2499
+  label: 見佛聞法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-9
+    span:
+    - body
+    - 2503
+    - 2503
+  label: 上品上生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-10
+    span:
+    - body
+    - 2507
+    - 2507
+  label: 上品中生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-11
+    span:
+    - body
+    - 2511
+    - 2511
+  label: 上品下生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-12
+    span:
+    - body
+    - 2515
+    - 2515
+  label: 中品上生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-13
+    span:
+    - body
+    - 2519
+    - 2519
+  label: 中品中生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-14
+    span:
+    - body
+    - 2523
+    - 2523
+  label: 中品下生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-15
+    span:
+    - body
+    - 2527
+    - 2527
+  label: 下品上生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-16
+    span:
+    - body
+    - 2531
+    - 2531
+  label: 下品中生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-17
+    span:
+    - body
+    - 2535
+    - 2535
+  label: 下品下生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-18
+    span:
+    - body
+    - 2539
+    - 2539
+  label: 九品同歸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-19
+    span:
+    - body
+    - 2690
+    - 2690
+  label: 五往生功行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-20
+    span:
+    - body
+    - 2695
+    - 2695
+  label: 解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-21
+    span:
+    - body
+    - 3240
+    - 3240
+  label: 圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-22
+    span:
+    - body
+    - 3240
+    - 3240
+  label: 讀誦大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-23
+    span:
+    - body
+    - 3244
+    - 3244
+  label: 懺除業障
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-24
+    span:
+    - body
+    - 3248
+    - 3248
+  label: 勤修方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0099_X_001-mulu-25
+    span:
+    - body
+    - 3252
+    - 3252
+  label: 等度冤親
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 11670
+  label: 重訂西方公據卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 六蓮宗開示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-2
+    span:
+    - body
+    - 13
+    - 13
+  label: 專雜二修說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-3
+    span:
+    - body
+    - 296
+    - 296
+  label: 臨終正念訣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-4
+    span:
+    - body
+    - 489
+    - 489
+  label: 禪淨四料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-5
+    span:
+    - body
+    - 579
+    - 579
+  label: 往生問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-6
+    span:
+    - body
+    - 1208
+    - 1208
+  label: 勸人發願偈并敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-7
+    span:
+    - body
+    - 2005
+    - 2005
+  label: 修進工夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-8
+    span:
+    - body
+    - 2348
+    - 2348
+  label: 專意一念
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-9
+    span:
+    - body
+    - 2560
+    - 2560
+  label: 開示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-10
+    span:
+    - body
+    - 2997
+    - 2997
+  label: 警眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-11
+    span:
+    - body
+    - 3561
+    - 3561
+  label: 開示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-12
+    span:
+    - body
+    - 4515
+    - 4515
+  label: 示念佛法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-13
+    span:
+    - body
+    - 5221
+    - 5221
+  label: 七往生現果
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-14
+    span:
+    - body
+    - 5226
+    - 5226
+  label: 集驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0099_X_002-mulu-15
+    span:
+    - body
+    - 8045
+    - 8045
+  label: 書證
+  type: mulu
+  level: 1
+hash: sha256:f36d3b09d5970997b4f56d600f75204e36759d16a6e7a1c3d5cd3b09982874e0
